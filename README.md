@@ -56,6 +56,6 @@ Architecture diagram
 	- Visualising the individual applications used and show it in the overall context of this assignment
 
 
- ![Alt text](DT1-architecture_Nadine Caterina Lehmann.drawio.png)
+ ![Architecture diagram](https://github.com/nadine3780/nadine_lehmann-dt1-23/blob/main/DT1-architecture_Nadine%20Caterina%20Lehmann.drawio.png)
 
 	
