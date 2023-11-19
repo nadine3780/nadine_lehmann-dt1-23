@@ -52,9 +52,8 @@ Occurred problems:
 
 
 Architecture diagram
-	- Used the graph drawing software https://draw.io/
-	- Visualising the individual applications used and show it in the overall context of this assignment
-
+- Used the graph drawing software https://draw.io/
+- Visualising the individual applications used and show them in the overall context of this assignment
 
  ![Architecture diagram](https://github.com/nadine3780/nadine_lehmann-dt1-23/blob/main/DT1-architecture_Nadine%20Caterina%20Lehmann.drawio.png)
 
