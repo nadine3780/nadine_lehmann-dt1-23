@@ -17,19 +17,17 @@ Github
 - Created my private git repository called nadine-lehmann-dt1-23 and created the README.md file
 	
 Docker 
-Docker Hub username: nadine3780
-Logged in to Docker Desktop and Docker Hub
-Locally built a Docker image in the terminal
-Created a new repository on Docker Hub named nadine3780/dt1_assignment
-Tagged the local image
-Pushed the image to the nadine3780/dt1_assignment repository on Docker Hub
-
+- Docker Hub username: nadine3780
+- Logged in to Docker Desktop and Docker Hub
+- Locally built a Docker image in the terminal
+- Created a new repository on Docker Hub named nadine3780/dt1_assignment
+- Tagged the local image
+- Pushed the image to the nadine3780/dt1_assignment repository on Docker Hub
 
 Hugging Face 
-	• Nadine3780's access token: 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
-	• Associated project/repository: dt1_assignment
-	• Account creation process:
-		• Navigated to settings, generated a new token 
+- Nadine3780's access token: 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
+- Associated project/repository: dt1_assignment
+- Account creation process - navigated to settings, generated a new token 
 The token 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 is used for authentication and authorization on Hugging Face. It allows interactions with Hugging Face's APIs for tasks such as model deployment, fine-tuning, and accessing datasets and models.
 
 
