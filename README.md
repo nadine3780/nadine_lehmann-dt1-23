@@ -48,8 +48,7 @@ Bubble
 Occurred problems
 1. When stopping the VM on the Google Cloud Platform, the external IP had to be updated in the HTLM code on Bubble
    - External IP for VM 34.65.167.39
-2. "Could not get a response from the bot" - when the bot is accessible from my own device, but not from another device
-
+2. "Could not get a response from the bot" - when the bot is accessible from my own device, but not from other devices. Solution: Chrome Setting, data and security (Datenschutz und Sicherheit), allow insecure content (unsichere Inhalte).
 
 Architecture diagram
 - Used the graph drawing software https://draw.io/
