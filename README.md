@@ -45,7 +45,7 @@ Bubble
 - Defining the input, output and button for the frontend interface
 - Connecting the API response to the user in Bubble
 
-Occurred problems: 
+Occurred problems
 1. When stopping the VM on the Google Cloud Platform, the external IP had to be updated in the HTLM code on Bubble
    - External IP for VM 34.65.167.39
 2. "Could not get a response from the bot" - when the bot is accessible from my own device, but not from another device
