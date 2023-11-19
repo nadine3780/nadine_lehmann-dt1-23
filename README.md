@@ -1,15 +1,12 @@
 # nadine_lehmann-dt1-23
 
-Readme File 
+Readme File - this assignment focuses on setting up a text completion system on the Google Cloud Platform that uses a proxy to interact with the Hugging Face API. The README contains explicit instructions with login details, repository cloning and a system diagram for enhanced understanding.
 
-This assignment focuses on setting up a text completion system on the Google Cloud Platform that uses a proxy to interact with the Hugging Face API. The README contains explicit instructions with login details, repository cloning and a system diagram for enhanced understanding.
-
-
-This assignment covers the first four learning cycles
-	- Software Architecture, Bubble, API Design, Cloud Computing
+This assignment covers the first four learning cycles:
+- Software Architecture, Bubble, API Design, Cloud Computing
 
 Codebase
-	• main.py: contains all the code for the proxy including the API routes.
+- main.py: contains all the code for the proxy including the API routes.
 	• Pipfile, Pipfile.lock: dependency file for running the codebase
 	• Dockerfile: docker build configuration
 
