@@ -6,25 +6,23 @@ This assignment covers the first four learning cycles:
 - Software Architecture, Bubble, API Design, Cloud Computing
 
 Codebase
-- main.py: contains all the code for the proxy including the API routes.
-	• Pipfile, Pipfile.lock: dependency file for running the codebase
-	• Dockerfile: docker build configuration
-
-
+- main.py: contains all the code for the proxy including the API routes
+- Pipfile, Pipfile.lock: dependency file for running the codebase
+- Dockerfile: docker build configuration
 
 Github
-	• Username: nadine3780, repository name nadine_lehmann-dt1-23
-	https://github.com/nadine3780/nadine_lehmann-dt1-23
-	Cloned the repository locally with SSH
-	• Created my private git repository called nadine-lehmann-dt1-23 and created the README.md file
+- Username: nadine3780, repository name nadine_lehmann-dt1-23
+- https://github.com/nadine3780/nadine_lehmann-dt1-23
+- Cloned the repository locally with SSH
+- Created my private git repository called nadine-lehmann-dt1-23 and created the README.md file
 	
 Docker 
-	• Docker Hub username: nadine3780
-	• Logged in to Docker Desktop and Docker Hub
-	• Locally built a Docker image in the terminal
-	• Created a new repository on Docker Hub named nadine3780/dt1_assignment
-	• Tagged the local image
-	• Pushed the image to the nadine3780/dt1_assignment repository on Docker Hub
+Docker Hub username: nadine3780
+Logged in to Docker Desktop and Docker Hub
+Locally built a Docker image in the terminal
+Created a new repository on Docker Hub named nadine3780/dt1_assignment
+Tagged the local image
+Pushed the image to the nadine3780/dt1_assignment repository on Docker Hub
 
 
 Hugging Face 
