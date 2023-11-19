@@ -27,32 +27,35 @@ Docker
 Hugging Face 
 - Nadine3780's access token: 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
 - Associated project/repository: dt1_assignment
-- Account creation process - navigated to settings, generated a new token 
-The token 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 is used for authentication and authorization on Hugging Face. It allows interactions with Hugging Face's APIs for tasks such as model deployment, fine-tuning, and accessing datasets and models.
+- Account creation process - navigated to settings, generated a new token
+- The token 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 is used for authentication and authorization on Hugging Face. It allows interactions with Hugging Face's APIs for tasks such as model deployment, fine-tuning, and accessing datasets and models.
 
+On the Google Cloud Platform
+- Established a new instance named vm-dt1
+- Initiated the instance and accessed it via SSH
+- Installed Docker on the virtual machine (VM)
+- Logged into Docker and verified its status on the VM
+- Pulled a Docker image from a repository to the VM
+- Modified the VM's firewall settings to enable the execution of the Docker image and execute the Docker image as needed 
+- Firewall: No restrictions on the ports or protocols, authorized IP ranges 0.0.0.0/0
 
-On the Google Cloud Platform:
-	• Established a new instance named vm-dt1
-	• Initiated the instance and accessed it via SSH
-	• Installed Docker on the virtual machine (VM)
-	• Logged into Docker and verified its status on the VM
-	• Pulled a Docker image from a repository to the VM
-	• Modified the VM's firewall settings to enable the execution of the Docker image, execute the Docker image as needed. 
-	• Firewall: No restrictions on the ports or protocolls, authorised IP ranges 0.0.0.0/0
+Bubble
+- https://nadine-lehmann.bubbleapps.io/version-test?debug_mode=true
+- Created and activated a new app
+- Defining the input, output and button for the frontend interface
+- Connecting the API response to the user in Bubble
 
-
- Bubble
-	- https://nadine-lehmann.bubbleapps.io/version-test?debug_mode=true
-	- Created and actived a new app 
-	- Defining the input, output and button for the frontend interface
-	- Connecting the API resonses to user in Bubble
-
-Occured problems: 
-	- External IP for vm 34.65.167.39
-	- When stopping the vm on the google cloud platform, the external IP had to be updated in the HTLM code on Bubble
+Occurred problems: 
+1. When stopping the VM on the Google Cloud Platform, the external IP had to be updated in the HTLM code on Bubble
+   - External IP for VM 34.65.167.39
+2. "Could not get a response from the bot" - when the bot is accessible from my own device, but not from another device
 
 
 Architecture diagram
 	- Used the graph drawing software https://draw.io/
 	- Visualising the individual applications used and show it in the overall context of this assignment
+
+
+ ![Alt text](DT1-architecture_Nadine Caterina Lehmann.drawio.png)
+
 	
